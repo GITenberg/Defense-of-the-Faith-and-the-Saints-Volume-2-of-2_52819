@@ -1,0 +1,26 @@
+_repo: Defense-of-the-Faith-and-the-Saints-Volume-2-of-2_52819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, B. H. (Brigham Henry)
+    alias: Roberts, Brigham Henry
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '37629'
+    url: http://www.gutenberg.org/2009/agents/37629
+    wikipedia: http://en.wikipedia.org/wiki/B._H._Roberts
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church'
+- !lcc 'BX'
+- GITenberg
+title: Defense of the Faith and the Saints (Volume 2 of 2)
+url: http://www.gutenberg.org/ebooks/52819
